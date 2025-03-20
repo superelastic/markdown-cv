@@ -1,9 +1,10 @@
 ### Russ Fischer
 AI-Driven Data Analytics | New York City Metropolitan Area
 <div id="webaddress">
-<a href="rfischer.public@gmail.com">rfischer.public@gmail.com</a>
-| <a href="https://www.linkedin.com/in/russfischer1/">LinkedIn</a>
+  <a href="mailto:rfischer.public@gmail.com">rfischer.public@gmail.com</a>
+  | <a href="https://www.linkedin.com/in/russfischer1/">LinkedIn</a>
 </div>
+
 
 ### Summary
 I drive data-driven innovation in telecom operations by building analytical systems that turn raw data into actionable insights – reducing costs, accelerating timelines, and solving previously intractable problems. My expertise spans predictive modeling, generative AI, and large-scale distributed systems, with a focus on quickly learning and adopting new technologies and turning them into business outcomes.
