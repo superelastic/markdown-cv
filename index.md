@@ -7,11 +7,11 @@ AI-Driven Data Analytics | New York City Metropolitan Area
 
 
 ### Summary
-I drive data-driven innovation in telecom operations by building analytical systems that turn raw data into actionable insights – reducing costs, accelerating timelines, and solving previously intractable problems. My expertise spans predictive modeling, generative AI, and large-scale distributed systems, with a focus on quickly learning and adopting new technologies and turning them into business outcomes.
+I drive data-driven innovation in business operations by building analytical systems that turn raw data into actionable insights – reducing costs, accelerating timelines, and solving previously intractable problems. My expertise spans predictive modeling, generative AI, ML Ops and large-scale distributed systems. I specialize in quickly learning and adopting new technologies, turning them into business outcomes.
 
 ### AI/ML for Operations
 * ML-Guided Network Restoration: Using historical data about patterns of mobile user activity on cell towers to understand the impact of tower outages and prioritize restoration efforts.
-* Troubleshooting Automation: Used LLMs to interpret natural-language notes on cell-site trouble tickets, providing technicians with summaries of recent repairs and eliminating redundant field diagnostics.
+* AI & Automation for Operations: Used LLMs to interpret natural-language notes on cell-site trouble tickets, providing technicians with summaries of recent repairs and eliminating redundant field diagnostics.
 * Process Compliance: Developed LLM classifiers to flag erroneous jeopardy statuses in fiber installation orders. This has a direct impact on customer satisfaction by detecting orders erroneously cancelled by the provider.
   
 ### AI/ML improving Business Efficiency
