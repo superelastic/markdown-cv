@@ -89,6 +89,5 @@ __The Cooper Union for the Advancement of Science and Art, B.M.E., engineering__
 
 ### Certifications
 R Programming [1], Regression Models [1], AZ-900 Azure Fundamentals [1].
-<!-- ### Footer
 
-Last updated: 2025 -->
+<!-- ### Footer Last updated: 2025 -->
