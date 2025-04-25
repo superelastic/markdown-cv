@@ -1,8 +1,10 @@
 ### Russ Fischer
 AI-Driven Data Analytics | New York City Metropolitan Area
+
 <div id="webaddress">
   <a href="mailto:rfischer.public@gmail.com">rfischer.public@gmail.com</a>
   | <a href="https://www.linkedin.com/in/russfischer1/">LinkedIn</a>
+  | <a href="https://github.com/superelastic">GitHub</a>
 </div>
 
 
