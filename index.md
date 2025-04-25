@@ -78,11 +78,11 @@ __Rutgers University M.S., Biomedical Engineering__
 __The Cooper Union for the Advancement of Science and Art, B.M.E., engineering__
 
 ### Technology Stack
-* Cloud: Azure, Google Cloud Platform, Databricks, Palantir Foundry
+* Cloud: Azure, Google Cloud Platform, AWS, Databricks, Palantir Foundry
 
 * Languages: Python (ML/DS), Java/Scala (Spark pipelines), R (statistical modeling)
 
-* Infrastructure: Kubernetes/Docker, TensorFlow, PyTorch
+* Infrastructure: MetaFlow, ML Flow, Kubernetes/Docker, TensorFlow, PyTorch
 
 
 ### Certifications
