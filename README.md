@@ -1,5 +1,6 @@
 ### Russ Fischer
 AI-Driven Data Analytics | New York City Metropolitan Area
+
 <div id="webaddress">
   <a href="mailto:rfischer.public@gmail.com">rfischer.public@gmail.com</a>
   | <a href="https://www.linkedin.com/in/russfischer1/">LinkedIn</a>
@@ -88,6 +89,5 @@ __The Cooper Union for the Advancement of Science and Art, B.M.E., engineering__
 
 ### Certifications
 R Programming [1], Regression Models [1], AZ-900 Azure Fundamentals [1].
-<!-- ### Footer
 
-Last updated: 2025 -->
+<!-- ### Footer Last updated: 2025 -->
